@@ -49,6 +49,6 @@ Discounts and Promotions:
 
 Security and Authentication:
 
-Implemented secure authentication and authorization mechanisms to protect user accounts and sensitive data.
+1.Implemented secure authentication and authorization mechanisms to protect user accounts and sensitive data.
 
-Used encryption for secure communication and storage of passwords and sensitive information.
+2.Used encryption for secure communication and storage of passwords and sensitive information.
