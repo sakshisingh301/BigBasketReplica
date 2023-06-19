@@ -52,3 +52,5 @@ Security and Authentication:
 1.Implemented secure authentication and authorization mechanisms to protect user accounts and sensitive data.
 
 2.Used encryption for secure communication and storage of passwords and sensitive information.
+
+Tools and Technology- Spring boot,Java8,mysql,spring security,spring data jpa,spring data batch,maven 
